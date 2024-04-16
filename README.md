@@ -9,3 +9,5 @@ Audio IN → Ø → OUT
 Guitar Effects clear + E
 (download effects)
 ML effect → IA
+
+https://drive.google.com/drive/folders/1P7ylSdQu_BrtGoc0XfOSy_LV32OymVhA?usp=drive_link
