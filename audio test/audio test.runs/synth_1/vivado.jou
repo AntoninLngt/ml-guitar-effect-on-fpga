@@ -3,12 +3,12 @@
 # SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
 # IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
 # SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
-# Start of session at: Tue Apr 23 14:40:09 2024
-# Process ID: 30156
+# Start of session at: Thu May  2 17:01:46 2024
+# Process ID: 29260
 # Current directory: C:/Users/anton/Desktop/Ecole/ENSEA/S8/stage/ml-guitar-effect-on-fpga/audio test/audio test.runs/synth_1
-# Command line: vivado.exe -log AudioPassthrough.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source AudioPassthrough.tcl
-# Log file: C:/Users/anton/Desktop/Ecole/ENSEA/S8/stage/ml-guitar-effect-on-fpga/audio test/audio test.runs/synth_1/AudioPassthrough.vds
+# Command line: vivado.exe -log I2C_Master_Controller.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source I2C_Master_Controller.tcl
+# Log file: C:/Users/anton/Desktop/Ecole/ENSEA/S8/stage/ml-guitar-effect-on-fpga/audio test/audio test.runs/synth_1/I2C_Master_Controller.vds
 # Journal file: C:/Users/anton/Desktop/Ecole/ENSEA/S8/stage/ml-guitar-effect-on-fpga/audio test/audio test.runs/synth_1\vivado.jou
 # Running On: DESKTOP-P3TL4NM, OS: Windows, CPU Frequency: 3294 MHz, CPU Physical cores: 12, Host memory: 21319 MB
 #-----------------------------------------------------------
-source AudioPassthrough.tcl -notrace
+source I2C_Master_Controller.tcl -notrace

@@ -1,0 +1,2 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/anton/Desktop/Ecole/ENSEA/S8/stage/ml-guitar-effect-on-fpga/audio test/audio test.srcs/sim_1/new/sim I2C.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'I2C_Master_Controller_tb'

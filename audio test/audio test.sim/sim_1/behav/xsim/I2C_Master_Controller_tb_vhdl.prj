@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../audio test.srcs/sources_1/new/I2C Master Controller.vhd" \
+"../../../../audio test.srcs/sim_1/new/sim I2C.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,20 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.87033",
+   "Default View_TopLeft":"-261,-177",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.5.8 2022-09-21 7111 VDI=41 GEI=38 GUI=JA:10.0
+#  -string -flagsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 2 -x 190 -y 350 -defaultsOSRD
+preplace inst clk_wiz_0 -pg 1 -lvl 1 -x -160 -y -20 -defaultsOSRD
+preplace inst proc_sys_reset_0 -pg 1 -lvl 2 -x 190 -y 170 -defaultsOSRD
+preplace inst axi_interconnect_0 -pg 1 -lvl 3 -x 520 -y 370 -defaultsOSRD
+preplace inst axis_data_fifo_0 -pg 1 -lvl 3 -x 520 -y 110 -defaultsOSRD
+preplace netloc clk_wiz_0_locked 1 1 1 -70 -10n
+preplace netloc clk_wiz_0_clk_out1 1 1 1 -10 -30n
+preplace netloc Net 1 0 2 -250 150 0J
+levelinfo -pg 1 -320 -160 190 520 970
+pagesize -pg 1 -db -bbox -sgen -320 -380 1100 520
+"
+}
+0
